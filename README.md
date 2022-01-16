@@ -10,13 +10,13 @@
     
   <!-- Node version -->
   <a href="https://nodejs.org/en/">
-    <img src="https://img.shields.io/static/v1?logo=Node.js&message=16.9.1&color=9cf&label=Node"
+    <img src="https://img.shields.io/static/v1?logo=Node.js&message=12.16.1&color=9cf&label=Node"
       alt="Node version" />
   </a>
     
   <!-- Json version -->
   <a href="https://firebase.google.com">
-    <img src="https://img.shields.io/static/v1?logo=json&message=8.0.0&color=orange&label=Json"
+    <img src="https://img.shields.io/static/v1?logo=npm&message=6.13.4&color=orange&label=Json"
       alt="Mysql version" />
   </a>
     
@@ -28,14 +28,14 @@
     
   <!-- Project -->
   <a href="https://www.afaas-africa.org/d4aeas/">
-    <img src="https://img.shields.io/static/v1?message=CRUD&color=blueviolet&label=Project"
+    <img src="https://img.shields.io/static/v1?message=TestFrond&color=blueviolet&label=Project"
       alt="Project" />
   </a>   
 
 
   <!-- IZARA -->
   <a href="https://www.linkedin.com/company/join-sayna/">
-    <img src="https://img.shields.io/static/v1?message=Izaragency&color=critical&label=Entreprise"
+    <img src="https://img.shields.io/static/v1?message=SAYNA&color=critical&label=Entreprise"
       alt="Sayna" />
   </a> 
 </div>
@@ -43,7 +43,7 @@
 [![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-yellow.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
 
 ## TestFrond
-Une  application `we` consu avec flask , vueJs et Json
+Une  application `mobile` consu avec react native  
  
 ## INSTALLATION
 
@@ -60,16 +60,24 @@ Une  application `we` consu avec flask , vueJs et Json
 
 ### Mise en place de l'application
 
-Il vous faut aller dans un autre terminal
+Dans le terminal tout à l'heure, lancer les commandes ci-après:
 
-- `$ cd Frontend`
 - `$ npm install` Installer toutes le package nécessaires
-- `$ npm run serve ` Lancer le serveur VueJS
+- `$ npm start ou expo start` Lancer le serveur nodeJS
 
-Vérifier à ce que le port 8080 soir libre
+Vérifier qu'il y a une code Qr apparaisse dans votre terminal
 
-Vous pouvez maintenant regarder le resultat dans  `http://localhost:8080/`
+Vous avez trois façon pour lancer votre application:
 
-### Mise en place de l'application
+    - <h3>Pour web: </h3> 
+    
+        Il vous suffit juste de taper sur votre clavier `w`. Puis, cliquer sur l'url indiquer dans le console pour vous puissez bien lancer l'application.
+        
+    -<h3>Pour device Android et Ios: </h3> 
+    
+        Il faut que vous télechargez l'application `Expo Go` pour l'android et `Camera app` celle de Ios, puis scanner via l'application le code Qr dans votre console.
+    
+### Builder l'application
+
 
 # TESTE CHEZ SAYNA
