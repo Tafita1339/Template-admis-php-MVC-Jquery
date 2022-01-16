@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <img src="Frontend/src/assets/img/logo.jpg" alt="Logo-IzaraAgency" width="250">
+    <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFMoe03mdJouQ/company-logo_200_200/0/1633047606561?e=1650499200&v=beta&t=7ZzKqOoifZwDCpD9tz7k12EJE6DPL5OArjuYkir7o6g" alt="Logo-Sayna" width="250">
 </p>
 <br/>
 <div align="center">
@@ -25,7 +25,7 @@
   </a>
     
   <!-- GitHub repo -->
-  <a href="https://github.com/rivo2302/">
+  <a href="https://github.com/Tafita1339/">
     <img src="https://img.shields.io/static/v1?logo=github&message=star&color=green&label=Github"
       alt="GitHub repo" />
   </a>     
@@ -38,9 +38,9 @@
 
 
   <!-- IZARA -->
-  <a href="https://www.facebook.com/AVANA-HUB-222214588337602">
+  <a href="https://www.linkedin.com/company/join-sayna/">
     <img src="https://img.shields.io/static/v1?message=Izaragency&color=critical&label=Entreprise"
-      alt="IZARAGENCY" />
+      alt="Sayna" />
   </a> 
 </div>
 
@@ -54,24 +54,15 @@ Une minimal application `web` consu avec flask , vueJs et Json
 ### PRE-REQUIS 
   - NodeJs
   - NPM
-  - Flask
-  - Python3
-  - PIP
+  - Expo
 
 
 ### Clôner le projet  
-- `$ git clone git@github.com:rivo2302/Minimal-web-application.git`
-- `$ cd Minimal-web-application`
+- `$ git clone git@github.com:Tafita1339/Sayna-TestFront-ReactNative.git`
+- `$ cd Sayna-TestFront-ReactNative`
 
 
-### Mise en place du  MISE EN PLACE DU BACK-END
-
-- `$ cd Backend`
-- `$ pip3 install -r requirements.txt ` Installer toutes les dependances
-- `$ python3 server.py` Lancer le serveur flask
-Vérifier à ce que le port 4444 soir libre
-
-### Mise en place du FRONTEND
+### Mise en place de l'application
 
 Il vous faut aller dans un autre terminal
 
@@ -83,4 +74,6 @@ Vérifier à ce que le port 8080 soir libre
 
 Vous pouvez maintenant regarder le resultat dans  `http://localhost:8080/`
 
-# TESTE CHEZ IZARAGENCY
+### Mise en place de l'application
+
+# TESTE CHEZ SAYNA
