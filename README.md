@@ -72,7 +72,7 @@ Vous avez trois façon pour lancer votre application:
     #Pour web:
     
         Il vous suffit juste de taper sur votre clavier `w`. 
-        Puis, cliquer sur l'url indiquer dans le console pour vous puissez bien lancer l'application.
+        Puis, suivez sur l'url indiquer dans le console pour vous puissez bien lancer l'application.
         
     #Pour device Android et Ios:
     
