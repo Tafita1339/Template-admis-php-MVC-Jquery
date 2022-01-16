@@ -71,11 +71,13 @@ Vous avez trois façon pour lancer votre application:
 
     - <h3>Pour web: </h3> 
     
-        Il vous suffit juste de taper sur votre clavier `w`. Puis, cliquer sur l'url indiquer dans le console pour vous puissez bien lancer l'application.
+        Il vous suffit juste de taper sur votre clavier `w`. 
+        Puis, cliquer sur l'url indiquer dans le console pour vous puissez bien lancer l'application.
         
     -<h3>Pour device Android et Ios: </h3> 
     
-        Il faut que vous télechargez l'application `Expo Go` pour l'android et `Camera app` celle de Ios, puis scanner via l'application le code Qr dans votre console.
+        Il faut que vous télechargez l'application `Expo Go` pour l'android et `Camera app` celle de Ios.
+        Puis scanner via l'application le code Qr dans votre console.
     
 ### Builder l'application
 
