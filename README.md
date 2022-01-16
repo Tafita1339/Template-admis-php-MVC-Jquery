@@ -6,11 +6,7 @@
 </p>
 <br/>
 <div align="center">
-  <!-- Flask version -->
-  <a href="https://expressjs.com/fr/">
-    <img src="https://img.shields.io/static/v1?logo=flak&message=1.22.11&color=teal&label=Flask"
-      alt="VFlask version" />
-  </a>
+  
     
   <!-- Node version -->
   <a href="https://nodejs.org/en/">
@@ -46,8 +42,8 @@
 
 [![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-yellow.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
 
-## CRUD 
-Une minimal application `web` consu avec flask , vueJs et Json
+## TestFrond
+Une  application `web` consu avec flask , vueJs et Json
  
 ## INSTALLATION
 
