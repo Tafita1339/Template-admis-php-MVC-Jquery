@@ -79,6 +79,11 @@ Vous avez trois façon pour lancer votre application:
         Il faut que vous télechargez l'application `Expo Go` pour l'android et `Camera app` celle de Ios.
         Puis scanner via l'application le code Qr dans votre console.
     
+    #Pour Emulateur:
+        
+        Télecharger et installer dans votre OS l'émulateur correspondant
+        
+    
 ### Builder l'application
 
 
