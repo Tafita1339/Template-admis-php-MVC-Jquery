@@ -85,6 +85,10 @@ Vous avez trois façon pour lancer votre application:
         
     
 ### Builder l'application
+    Pour builder votre application, lancer les commandes ci-après, mais avant cela, fermer d'abord votre serveur en cliquant les commbianaisons de touches `CTRL + C`.
+    
+        -`$ expo buil: android`: Pour builder une application android
+        -`$ expo buil: ios`:Pour builder une application ios
 
 
 # TESTE CHEZ SAYNA
