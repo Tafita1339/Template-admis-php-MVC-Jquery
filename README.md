@@ -62,6 +62,7 @@ Une  application `mobile` consu avec react native
 
 Dans le terminal tout à l'heure, lancer les commandes ci-après:
 
+- `$ npm install -g expo-cli` Installer expo dans votre OS
 - `$ npm install` Installer toutes le package nécessaires
 - `$ npm start ou expo start` Lancer le serveur nodeJS
 
